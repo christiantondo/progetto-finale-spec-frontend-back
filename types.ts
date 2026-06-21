@@ -10,6 +10,7 @@ export type Vehicle = {
     id: number,
     title: string,
     category: string,
+    img: string,
     price: number,
     brand: string,
     releaseYear: number,
