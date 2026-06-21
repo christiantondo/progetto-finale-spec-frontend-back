@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "title": "Audi A3 IV 2020 Sportback 1.4 tfsi",
+        "category": "Car",
+        "price": 30000,
+        "brand": "Audi",
+        "releaseYear": 2020,
+        "owners": 1,
+        "km": 10000,
+        "fuelType": "Petrol",
+        "engineSize": 1395
+    },
+    {
+        "id": 2,
+        "title": "Volkswagen Golf GTI 2.0 tsi",
+        "category": "Car",
+        "price": 18000,
+        "brand": "Volkswagen",
+        "releaseYear": 2015,
+        "owners": 3,
+        "km": 99000,
+        "fuelType": "Petrol",
+        "engineSize": 1984
+    },
+    {
+        "id": 3,
+        "title": "Audi Q7 3.0 TDI 272CV QUATTRO TIPTRONIC",
+        "category": "Car",
+        "price": 30700,
+        "brand": "Audi",
+        "releaseYear": 2017,
+        "owners": 2,
+        "km": 143306,
+        "fuelType": "Diesel",
+        "engineSize": 2967
+    },
+    {
+        "id": 4,
+        "title": "BMW X6 M Sport xDrive 30d MSport",
+        "category": "Car",
+        "price": 73300,
+        "brand": "BMW",
+        "releaseYear": 2024,
+        "owners": 1,
+        "km": 55000,
+        "fuelType": "Hybrid",
+        "engineSize": 2993
+    },
+    {
+        "id": 5,
+        "title": "Mercedes-Benz AMG GT",
+        "category": "Car",
+        "price": 474000,
+        "brand": "Mercedes-Benz",
+        "releaseYear": 2022,
+        "owners": 1,
+        "km": 1466,
+        "fuelType": "Petrol",
+        "engineSize": 3982
+    },
+    {
+        "id": 6,
+        "title": "Porsche 991 GT2 RS",
+        "category": "Car",
+        "price": 455000,
+        "brand": "Porsche",
+        "releaseYear": 2018,
+        "owners": 1,
+        "km": 832,
+        "fuelType": "Petrol",
+        "engineSize": 3800
+    },
+    {
+        "id": 7,
+        "title": "Acura NSX",
+        "category": "Car",
+        "price": 150000,
+        "brand": "Acura",
+        "releaseYear": 1991,
+        "owners": 1,
+        "km": 28000,
+        "fuelType": "Petrol",
+        "engineSize": 3000
+    },
+    {
+        "id": 8,
+        "title": "Ducati Desmosedici RR",
+        "category": "Bike",
+        "price": 250000,
+        "brand": "Ducati",
+        "releaseYear": 2008,
+        "owners": 1,
+        "km": 1,
+        "fuelType": "Petrol",
+        "engineSize": 989
+    },
+    {
+        "id": 9,
+        "title": "MV Agusta 1000 S Serie Oro",
+        "category": "Bike",
+        "price": 67500,
+        "brand": "MV Agusta",
+        "releaseYear": 2026,
+        "owners": 1,
+        "km": 5,
+        "fuelType": "Petrol",
+        "engineSize": 998
+    },
+    {
+        "id": 10,
+        "title": "Harley-Davidson Road Glide",
+        "category": "Bike",
+        "price": 38900,
+        "brand": "Harley-Davidson",
+        "releaseYear": 2024,
+        "owners": 1,
+        "km": 1900,
+        "fuelType": "Petrol",
+        "engineSize": 1923
+    }
+]
