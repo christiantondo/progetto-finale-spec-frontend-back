@@ -128,5 +128,70 @@
         "km": 1900,
         "fuelType": "Petrol",
         "engineSize": 1923
+    },
+    {
+        "id": 11,
+        "title": "Honda CBR 1000 SP",
+        "category": "Bike",
+        "img": "",
+        "price": 24500,
+        "brand": "Honda",
+        "releaseYear": 2024,
+        "owners": 1,
+        "km": 8000,
+        "fuelType": "Petrol",
+        "engineSize": 1000
+    },
+    {
+        "id": 12,
+        "title": "Honda CBR 1000 RR-R SP 30th ANNIVERSARY",
+        "category": "Bike",
+        "img": "",
+        "price": 21997,
+        "brand": "Honda",
+        "releaseYear": 2023,
+        "owners": 1,
+        "km": 3180,
+        "fuelType": "Petrol",
+        "engineSize": 1000
+    },
+    {
+        "id": 13,
+        "title": "Ducati Panigale V4 LAMBORGHINI 1 OF 630 LIMITED EDITION",
+        "category": "Bike",
+        "img": "",
+        "price": 119850,
+        "brand": "Ducati",
+        "releaseYear": 2026,
+        "owners": 1,
+        "km": 3,
+        "fuelType": "Petrol",
+        "engineSize": 1103
+    },
+    {
+        "id": 14,
+        "title": "Pagani HUAYRA BC ROADSTER 1 of 40",
+        "category": "Car",
+        "img": "",
+        "price": 8700000,
+        "brand": "Pagani",
+        "releaseYear": 2022,
+        "owners": 0,
+        "km": 0,
+        "fuelType": "Petrol",
+        "engineSize": 6000
+    },
+    {
+        "id": 15,
+        "title": "Aston Martin Valkyrie 1 of 150",
+        "category": "Car",
+        "img": "",
+        "price": 3580000,
+        "brand": "Aston Martin",
+        "releaseYear": 2023,
+        "owners": 1,
+        "km": 390,
+        "fuelType": "Petrol",
+        "engineSize": 6500
     }
 ]
